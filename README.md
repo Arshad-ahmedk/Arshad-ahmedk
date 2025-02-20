@@ -20,12 +20,11 @@
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)  
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)  
 
-<!--
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Shylejasatheesan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shylejasatheesan&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shylejasatheesan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
+![](https://github-readme-stats.vercel.app/api?username=Arshad-ahmedk&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Arshad-ahmedk&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad-ahmedk&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## 📢 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshadahmedk/)
 <!--
